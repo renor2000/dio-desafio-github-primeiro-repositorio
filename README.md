@@ -5,5 +5,6 @@ Repositório Criado para Pôr o Desafio de Projeto
 Desafio de Projeto sobre Git/GitHub
 
 ## Links Úteis
-[Sintaxe Basica Mardown] (https://www.markdownguide.org/basic-syntax)
+[Meu Perfil] (https://web.dio.me/users/mario_renor?tab=achievements)
+[Meu LinkedIn] (https://www.linkedin.com/in/mariorenor/)
 
